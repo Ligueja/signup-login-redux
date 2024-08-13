@@ -4,13 +4,15 @@
 
 <b>ATIVIDADE - SIGN UP E LOGIN - REDUX</b>
 
-# Controle Financeiro
+# CADASTRO E LOGIN
 
 Este é um projeto de uma aplicação web para simular o cadastro e login do usuário, com validações de dados válidos para cadastro e comparação dos dados para realizar o login.
 
-<img src="" width="400"/>
+<img src="https://github.com/Ligueja/signup-login-redux/blob/main/src/images/1.jpg" width="400" height="500"/> <img src="https://github.com/Ligueja/signup-login-redux/blob/main/src/images/2.jpg" width="400" height="500"/>
 
-<img src="" width="400"/>
+<img src="https://github.com/Ligueja/signup-login-redux/blob/main/src/images/3.jpg" width="400" height="500"/>  <img src="https://github.com/Ligueja/signup-login-redux/blob/main/src/images/4.jpg" width="400" height="500"/>
+
+<img src="https://github.com/Ligueja/signup-login-redux/blob/main/src/images/5.jpg" width="400"/> 
 
 ## Tecnologias Utilizadas
 
